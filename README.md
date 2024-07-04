@@ -2,6 +2,9 @@
 
 This repository contains a comprehensive evaluation of various Large Language Models (LLMs) in the context of figurative language detection. The evaluation is detailed in three primary notebooks: "1 Comparative Evaluation.ipynb", "2 Group Agreement.ipynb", and "3 Consensus Based LLM Prediction Aggregation.ipynb". These notebooks collectively explore the performance, biases, and potential of LLMs in handling subjective natural language processing tasks, leveraging both quantitative and qualitative analyses.
 
+This code is related to the paper titled "Combining LLM Efficiency with Human Expertise: Addressing Systematic Biases in Figurative Language Detection" by Kelaiti Xiao, Liang Yang, Xiaokun Zhang, PAERHATI Tulajiang, and Hongfei Lin. The paper is currently under review for publication in Elsevier's Expert Systems with Applications and can be found on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883199). Please note that it has not yet been peer-reviewed.
+
+
 ## 1 Comparative Evaluation
 ### 1.1 Functions & Data
 This section includes the necessary functions and data required for the evaluation. It sets up the foundation for the subsequent analyses by loading and preparing the datasets.
